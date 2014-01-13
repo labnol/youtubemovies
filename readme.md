@@ -1,12 +1,12 @@
 # YouTube Movies
 
-[Zero Dollar Movies](http://zerodollarmovies.com/) is a catalog of free movies available on YouTube. The movies are discovered through the YouTube API and links curated by members of [Reddit](http://www.reddit.com/r/fullmoviesonyoutube/top).
+[Zero Dollar Movies](http://zerodollarmovies.com/) is a catalog of free movies available on YouTube. The movies are discovered through the [YouTube API](http://ctrlq.org/code/19608-youtube-search-api) and links curated by members of [Reddit](http://www.reddit.com/r/fullmoviesonyoutube/top).
 
 ## Reddit Movies
 
 This is a complete list of YouTube movies that have been submitted to the /r/fullmoviesonyoutube subreddit. The data was fetched with [Google Apps Script](http://ctrlq.org/code/19600-reddit-scraper-script) using the Reddit API.
 
-The list is sorted by the year of release.
+The list is sorted by the year of release and link directly to the movie on YouTube. Some of the links may not work in your country due to geography based licensing restictions in place at YouTube.
 
 * [L'Inferno Giuseppe de Liguoro (1911)](http://youtu.be/bo4T3GUL9I0)
 * [Dante's Inferno (1911)](http://youtu.be/iS4We4MDheg)
