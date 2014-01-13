@@ -4,7 +4,9 @@
 
 ## Reddit Movies
 
-This is a list of YouTube movies currently available on the /r/fullmoviesonyoutube subreddit. The data was fetched with [Google Apps Script](http://ctrlq.org/code/19600-reddit-scraper-script) using the Reddit API.
+This is a complete list of YouTube movies that have been submitted to the /r/fullmoviesonyoutube subreddit. The data was fetched with [Google Apps Script](http://ctrlq.org/code/19600-reddit-scraper-script) using the Reddit API.
+
+The list is sorted by the year of release.
 
 * [L'Inferno Giuseppe de Liguoro (1911)](http://youtu.be/bo4T3GUL9I0)
 * [Dante's Inferno (1911)](http://youtu.be/iS4We4MDheg)
